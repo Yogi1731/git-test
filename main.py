@@ -12,3 +12,4 @@ def mul{a,b}:
 a=2
 
 b=3
+world
